@@ -4,7 +4,7 @@ Aplicação de gerenciamento de tarefas baseada no modelo Kanban, desenvolvida c
 
 O projeto permite criar, editar, excluir e organizar tarefas entre diferentes etapas do fluxo de trabalho.
 
-![MyKanban](./public/mykanban-preview.gif)
+![MyKanban](app/public/mykanban-preview.gif)
 
 ## Funcionalidades
 
