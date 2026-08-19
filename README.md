@@ -43,7 +43,7 @@ As tarefas são organizadas em três etapas:
 
 1. Clone o repositório:
 
-git clone <https://github.com/giosantos99/to-do-drag-drop.git>
+git clone <https://github.com/giosantos99/MyKanban.git>
 
 2. Entre na pasta do projeto:
 
